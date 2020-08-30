@@ -27,7 +27,7 @@ In this file, please add your recursive implementation to the `count_th()` metho
   * It cannot contain any loops.
 Run `python test_count_th.py` to run the tests for your `count_th()` function to ensure that your implementation is correct.
 ******
-##### 4. Complete robot_sort (Done)
+#### 4. Complete robot_sort (Done)
 Inside the `robot_sort` directory you'll find the `robot_sort.py` file. 
 Open it up and read through each of the robot's abilities. 
 Once you've understood those, start filling out the `sort()` method following these rules:
@@ -40,7 +40,6 @@ Once you've understood those, start filling out the `sort()` method following th
   * You may NOT access any instance variables directly. (`self._anything`)
   * You may NOT use any Python libraries or class methods. (`sorted()`, etc.)
   * You may define robot helper methods, as long as they follow all the rules.
-
-### Stretch (Done)
+#### Stretch (Done)
 Can you optimize your robot sort to perform better than the given times?
 Uncomment the `test_stretch_times()` test in `test_robot.py` to check your work.
